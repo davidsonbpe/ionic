@@ -1,2 +1,2 @@
 # ionic
-ionic 01
+ionic core
