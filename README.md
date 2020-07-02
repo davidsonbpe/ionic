@@ -1,2 +1,2 @@
 # ionic
-ionic 0222
+ionic 02
